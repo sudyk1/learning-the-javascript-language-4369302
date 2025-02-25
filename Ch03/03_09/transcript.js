@@ -14,7 +14,7 @@ regex = /this/i;
 
 regex = /^this/i;
 
-regex = /this$/i;
+regex = /thisre$/i;
 
 regex = /ever.$/i;
 
